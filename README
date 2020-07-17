@@ -1,0 +1,8 @@
+Program to print array element using recursion.
+
+Concept used are:
+			static library
+			recursion
+
+Created a static library for the required function.
+Created driver program to run the execution.
